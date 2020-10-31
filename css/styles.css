@@ -10719,7 +10719,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   }
 }
 }
-#contact .survey {
+.survey {
     top: 0;
     bottom: 0;
     width: 100%;
